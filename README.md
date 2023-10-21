@@ -1,6 +1,6 @@
 # Landing Page do Canal PET Comp UFCG
 
-👋 Bem-vindo à Landing Page do projeto Canal PET Comp UFCG! Esta página tem como objetivo apresentar e destacar as principais informações sobre o projeto e fornecer acesso fácil ao nosso canal no YouTube.
+👋 Bem-vindo à Landing Page do canal PET Comp UFCG! Esta página tem como objetivo apresentar e destacar as principais informações sobre o projeto e fornecer acesso fácil ao nosso canal no YouTube.
 
 ## Visão Geral
 
